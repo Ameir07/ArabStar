@@ -139,7 +139,7 @@
             <div class="cta-content d-xl-flex align-items-center justify-content-around text-center text-xl-left">
                 <div class="content" data-aos="fade-right" data-aos-delay="200">
                     <h2>IP Server MTA : Offline</h2>
-                    <p>Server Release In 12/4/2021</p>
+                    <p></p>
                 </div>
                 <div class="subscribe-btn" data-aos="fade-left" data-aos-delay="400" data-aos-offset="0">
                     <a href="#" class="btn btn-primary">Join Server MTA</a>
